@@ -1,0 +1,429 @@
+{
+  "recipe": [
+    {
+      "id": "0",
+      "title": "Quesadillas aux haricots noirs",
+      "desc": "This vegetarian version of taquitos contains black beans, cream cheese, lime and corn kernels, which are spread in wheat tortillas. They are pan-fried and served with sour cream, green onions and salsa. A Mexican-inspired dish that's perfect during the week, when you're simply looking to eat well.",
+      "ingredients": {
+        "1": "1 red bell pepper",
+        "2": "2 tsp. olive oil",
+        "3": "1 onion, finely chopped",
+        "4": "2 garlic cloves, finely minced",
+        "5": "1 can (540 ml) black beans",
+        "6": "1 tsp. ground cumin",
+        "7": "50 ml (1/4 cup) chopped cilantro",
+        "8": "250 ml (1 cup) mixed cheddar and Monterey Jack cheeses, grated",
+        "9": "8 whole-wheat tortillas, 17.5 cm (7 in.) long"
+      },
+      "steps": {
+        "1": "Step 1 - Preheat oven to 180°C (350°F). Peel and seed peppers and cut into 0.5 cm (1/4) cubes. Heat oil in a large skillet over medium heat. Add onion. Cook, stirring often, until softened, about 3 minutes.",
+        "2": "Step 2 - Stir in bell pepper and garlic. Cook, stirring occasionally, for about 2 minutes. Drain and rinse beans. Add to salsa and cumin mixture. Cook, stirring occasionally, until beans are hot, about 3 minutes. Remove from heat.",
+        "3": "Step 3 - In a bowl, combine cilantro and cheese. Place a tortilla in a medium nonstick skillet over medium heat. Top with a quarter of the bean mixture. Sprinkle with a quarter of the cheese.",
+        "4": "Step 4 - Cover with another tortilla. Press down. Brown base, about 2 minutes. Using a large spatula, turn over and brown other side, 2 minutes. Place on a baking sheet and keep warm in the oven.",
+        "5": "Step 5 - Repeat with remaining tortillas. Cut quesadillas into quarters."
+      },
+      "category": "starter",
+      "type": "mexican",
+      "img": "https://fr.chatelaine.com/wp-content/uploads/2020/12/Quesadillas-unsplash_800x800.jpg",
+      "time": "1.5 hours",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "1",
+      "title": "Oeufs mimosa",
+      "desc": "Oeufs Mimosa, also known as Deviled Eggs in English, is a classic appetizer made by filling hard-boiled egg whites with a seasoned yolk mixture. Here's a detailed recipe to help you create this delightful dish",
+      "ingredients": {
+        "1": "0.25 l d' huile",
+        "2": "persil chopped",
+        "3": "1 small bowl of mayonnaise",
+        "4": "1 cuillère à café de moutarde",
+        "5": "1 teaspoon mustard (optional)",
+        "6": "lettuce leaf",
+        "7": "1 Egg yolk",
+        "8": "black olives to decorate the eggs (optional)",
+        "9": "lemon juice (optional)"
+      },
+      "steps": {
+        "1": "Step 1 - Cook the eggs in boiling water for 10 minutes, then put them in cold water to stop the cooking process.",
+        "2": "Step 2 - Make a mayonnaise with 1 egg yolk, 1 teaspoon mustard, 1/4 l oil and lemon juice (optional), or use a commercially prepared mayonnaise. The lemon juice is added at the last minute.",
+        "3": "Step 3 - Shell the eggs, cut them lengthwise and separate the whites from the yolks.",
+        "4": "Step 4 - In a shallow dish, crumble the yolks with a fork, mix half of the crumbled yolks with the mayonnaise and set the rest aside.",
+        "5": "Step 5 - Fill the half-eggs with this mixture, then sprinkle each half-egg with the remaining crumbled yolks (which makes the mimosa!!).",
+        "6": "Step 6 - Arrange the eggs on lettuce leaves, sprinkle each egg with parsley and a black olive. Serve chilled."
+      },
+      "category": "starter",
+      "type": "french",
+      "img": "https://th.bing.com/th/id/OSK.HERO5Oh7tVzuhm7YOHZJ2m21uqVK0Flljncu3-IfxAdaeXM?rs=1&pid=ImgDetMain",
+      "time": "1 hour",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "2",
+      "title": "Tibetan Momo",
+      "desc": "Tibetan momos are a type of dumpling native to the Tibetan Plateau. They are a popular dish not only in Tibet but also in neighboring regions like Nepal, Bhutan, and parts of India, especially among the Tibetan diaspora. Here’s an overview of Tibetan momos",
+      "ingredients": {
+        "1": "2 cups all-purpose flour",
+        "2": "Water (as needed)",
+        "3": "Pinch of salt",
+        "4": "corriander",
+        "5": "beefground meat",
+        "6": "0.25l of oil",
+        "7": "2 middle size onion"
+      },
+      "steps": {
+        "1": "Step 1 - Mix the flour and a pinch of salt in a bowl.",
+        "2": "Step 2 - Gradually add water and knead until you form a smooth and elastic dough.",
+        "3": "Step 3 - Cover the dough with a damp cloth and let it rest for at least 30 minutes.",
+        "4": "Step 4- In a mixing bowl, combine all the filling ingredients.",
+        "5": "Step 5 - Mix well to ensure the seasoning is evenly distributed.",
+        "6": "Step 6 - Divide the dough into small, equal-sized balls.",
+        "7": "Step 7 - Roll each ball into a thin, circular wrapper about 3 inches in diameter.",
+        "8": "Step 8 - Place a spoonful of filling in the center of each wrapper.",
+        "9": "Step 9 - Fold the wrapper over the filling and pinch the edges to seal. You can make pleats for a traditional look or simply press the edges together"
+      },
+      "category": "main course",
+      "type": "asian",
+      "img": "https://www.steppestravel.com/app/uploads/2020/05/tibetan-momo.jpg",
+      "time": "20 minutes",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Alfredo Pasta",
+      "desc": "A classic Italian-American dish made with fettuccine pasta tossed in a rich and creamy Alfredo sauce with chicken pieces, garlic, and Parmesan cheese.",
+      "ingredients": {
+        "1": "200g fettuccine pasta",
+        "2": "2 tbsp olive oil",
+        "3": "2 chicken breasts, diced",
+        "4": "3 garlic cloves, minced",
+        "5": "1 cup heavy cream",
+        "6": "1 cup grated Parmesan cheese",
+        "7": "2 tbsp chopped parsley",
+        "8": "Salt and pepper to taste"
+      },
+      "steps": {
+        "1": "Step 1 - Cook pasta according to package instructions. Drain and set aside.",
+        "2": "Step 2 - Heat olive oil in a large skillet over medium-high heat. Add chicken and cook until browned and cooked through, about 5-7 minutes. Remove chicken from skillet and set aside.",
+        "3": "Step 3 - In the same skillet, add garlic and cook for 1 minute until fragrant. Pour in heavy cream and bring to a simmer. Reduce heat to low and stir in Parmesan cheese until melted and the sauce is smooth.",
+        "4": "Step 4 - Return chicken to the skillet and toss to coat in the sauce. Add cooked pasta and toss to combine.",
+        "5": "Step 5 - Garnish with chopped parsley and serve immediately."
+      },
+      "category": "main course",
+      "type": "italian",
+      "img": "https://amandascookin.com/wp-content/uploads/2021/08/Chicken-Alfredo-V01-1100x1650.jpg",
+      "time": "30 minutes",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "4",
+      "title": "Classic Beef Tacos",
+      "desc": "Ground beef tacos seasoned with a blend of spices, served in crispy taco shells and topped with lettuce, cheese, and salsa.",
+      "ingredients": {
+        "1": "500g ground beef",
+        "2": "1 packet taco seasoning",
+        "3": "1/2 cup water",
+        "4": "8 taco shells",
+        "5": "1 cup shredded lettuce",
+        "6": "1 cup shredded cheddar cheese",
+        "7": "1 cup salsa"
+      },
+      "steps": {
+        "1": "Step 1 - Cook ground beef in a large skillet over medium-high heat until browned. Drain excess fat.",
+        "2": "Step 2 - Add taco seasoning and water to the skillet. Stir to combine and cook for 5-7 minutes, until the sauce thickens.",
+        "3": "Step 3 - Warm taco shells according to package instructions.",
+        "4": "Step 4 - Fill each taco shell with seasoned beef, lettuce, cheese, and salsa.",
+        "5": "Step 5 - Serve immediately."
+      },
+      "category": "main course",
+      "type": "mexican",
+      "img": "https://eatandcooking.com/wp-content/uploads/2020/12/authentic-mexican-ground-beef-taco-recipe-awesome-ground-beef-tacos-dinner-at-the-zoo-of-authentic-mexican-ground-beef-taco-recipe.jpg",
+      "time": "20 minutes",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "5",
+      "title": "Chocolate Chip Cookies",
+      "desc": "Classic chewy and soft chocolate chip cookies with a perfect balance of sweetness and chocolate chips.",
+      "ingredients": {
+        "1": "1 cup unsalted butter, softened",
+        "2": "1 cup white sugar",
+        "3": "1 cup packed brown sugar",
+        "4": "2 eggs",
+        "5": "2 tsp vanilla extract",
+        "6": "3 cups all-purpose flour",
+        "7": "1 tsp baking soda",
+        "8": "2 tsp hot water",
+        "9": "1/2 tsp salt",
+        "10": "2 cups semisweet chocolate chips"
+      },
+      "steps": {
+        "1": "Step 1 - Preheat oven to 350°F (175°C).",
+        "2": "Step 2 - Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla.",
+        "3": "Step 3 - Dissolve baking soda in hot water. Add to batter along with salt.",
+        "4": "Step 4 - Stir in flour and chocolate chips. Drop by large spoonfuls onto ungreased pans.",
+        "5": "Step 5 - Bake for about 10 minutes in the preheated oven, or until edges are nicely browned."
+      },
+      "category": "dessert",
+      "type": "american",
+      "img": "https://th.bing.com/th/id/R.929adbf156daeb1e8f29870f912925b1?rik=LHYc2TbVlyvoFw&riu=http%3a%2f%2fwww.spoonforkbacon.com%2fwordpress%2fwp-content%2fuploads%2f2014%2f01%2fchocolate-chip-cookies-recipe.jpg&ehk=6CxnwYP%2fqG8TP1qty2ToaGSI3tdFHwp4vKroF6uOmkY%3d&risl=&pid=ImgRaw&r=0",
+      "time": "25 minutes",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "6",
+      "title": "Caesar Salad",
+      "desc": "A classic Caesar salad with romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.",
+      "ingredients": {
+        "1": "1 head romaine lettuce, chopped",
+        "2": "1/2 cup grated Parmesan cheese",
+        "3": "1 cup croutons",
+        "4": "1/2 cup Caesar dressing",
+        "5": "1 lemon, cut into wedges"
+      },
+      "steps": {
+        "1": "Step 1 - In a large bowl, combine chopped romaine lettuce, grated Parmesan cheese, and croutons.",
+        "2": "Step 2 - Drizzle with Caesar dressing and toss to coat.",
+        "3": "Step 3 - Serve immediately with lemon wedges on the side."
+      },
+      "category": "starter",
+      "type": "italian",
+      "img": "https://th.bing.com/th/id/R.3d3776b4152b6a98f6ca2fe0ce6dfc19?rik=z0cbbbwNZ99TAw&pid=ImgRaw&r=0",
+      "time": "15 minutes",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "7",
+      "title": "Classic Tiramisu",
+      "desc": "A traditional Italian dessert made with layers of coffee-soaked ladyfingers and a rich mascarpone cheese mixture, topped with cocoa powder.",
+      "ingredients": {
+        "1": "6 egg yolks",
+        "2": "3/4 cup white sugar",
+        "3": "2/3 cup milk",
+        "4": "1 1/4 cups heavy cream",
+        "5": "1/2 tsp vanilla extract",
+        "6": "1 lb mascarpone cheese",
+        "7": "1 cup strong brewed coffee, cooled",
+        "8": "1/4 cup coffee liqueur",
+        "9": "2 packages ladyfingers",
+        "10": "1 tbsp unsweetened cocoa powder"
+      },
+      "steps": {
+        "1": "Step 1 - In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over medium heat, stirring constantly, until mixture boils. Boil gently for 1 minute, then remove from heat and allow to cool slightly. Cover tightly and chill in the refrigerator for 1 hour.",
+        "2": "Step 2 - In a medium bowl, beat cream with vanilla until stiff peaks form.",
+        "3": "Step 3 - Whisk mascarpone into yolk mixture until smooth.",
+        "4": "Step 4 - In a small bowl, combine coffee and coffee liqueur. Quickly dip each ladyfinger into the coffee mixture just long enough to get them wet, do not soak them. Arrange half of soaked ladyfingers in bottom of a 7x11 inch dish.",
+        "5": "Step 5 - Spread half of mascarpone mixture over ladyfingers, then half of whipped cream over that. Repeat layers and sprinkle with cocoa. Cover and refrigerate 4 to 6 hours, until set."
+      },
+      "category": "dessert",
+      "type": "italian",
+      "img": "https://th.bing.com/th/id/OIP.Y5Yjw_O0wsI0JzPzUD7N6QHaLH?rs=1&pid=ImgDetMain",
+      "time": "6 hours",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "8",
+      "title": "Lemon Bars",
+      "desc": "Sweet and tangy lemon bars with a buttery crust and a rich lemon filling, dusted with powdered sugar.",
+      "ingredients": {
+        "1": "1 cup butter, softened",
+        "2": "1/2 cup white sugar",
+        "3": "2 cups all-purpose flour",
+        "4": "4 eggs",
+        "5": "1 1/2 cups white sugar",
+        "6": "1/4 cup all-purpose flour",
+        "7": "2 lemons, juiced"
+      },
+      "steps": {
+        "1": "Step 1 - Preheat oven to 350°F (175°C). In a medium bowl, blend together softened butter, 2 cups flour, and 1/2 cup sugar. Press into the bottom of an ungreased 9x13 inch pan.",
+        "2": "Step 2 - Bake for 15 to 20 minutes in the preheated oven, or until firm and golden. In another bowl, whisk together the remaining 1 1/2 cups sugar and 1/4 cup flour. Whisk in the eggs and lemon juice. Pour over the baked crust.",
+        "3": "Step 3 - Bake for an additional 20 minutes in the preheated oven. The bars will firm up as they cool.",
+        "4": "Step 4 - For a festive tray, make another pan of lemon bars, but cut them in diamond shapes and arrange in a checkerboard pattern."
+      },
+      "category": "dessert",
+      "type": "american",
+      "img": "https://th.bing.com/th/id/R.89583d649af009bb4f44cd6a4f25ec01?rik=1q84Yzuassjp%2fA&pid=ImgRaw&r=0",
+      "time": "45 minutes",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "9",
+      "title": "Coq au Vin",
+      "desc": "Coq au vin is a classic French dish of chicken braised with wine, mushrooms, and optionally garlic. A perfect comfort food with rich flavors.",
+      "ingredients": {
+        "1": "1 whole chicken, cut into pieces",
+        "2": "200g bacon, diced",
+        "3": "250g mushrooms, sliced",
+        "4": "3 shallots, chopped",
+        "5": "2 cloves garlic, minced",
+        "6": "750ml red wine (preferably Burgundy)",
+        "7": "250ml chicken broth",
+        "8": "2 tbsp tomato paste",
+        "9": "2 tbsp butter",
+        "10": "2 tbsp all-purpose flour",
+        "11": "Salt and pepper to taste",
+        "12": "Fresh parsley for garnish"
+      },
+      "steps": {
+        "1": "Step 1 - In a large Dutch oven, cook bacon over medium heat until crisp. Remove bacon and set aside, leaving drippings in the pot.",
+        "2": "Step 2 - Season chicken pieces with salt and pepper. Brown chicken in the bacon drippings on all sides. Remove chicken and set aside.",
+        "3": "Step 3 - Add butter to the pot and sauté shallots and garlic until softened.",
+        "4": "Step 4 - Stir in flour and cook for 1-2 minutes. Slowly add red wine and chicken broth, stirring constantly.",
+        "5": "Step 5 - Return chicken and bacon to the pot. Add mushrooms and tomato paste. Bring to a simmer, cover, and cook over low heat for 1.5 to 2 hours, until chicken is tender.",
+        "6": "Step 6 - Adjust seasoning with salt and pepper. Garnish with chopped parsley before serving."
+      },
+      "category": "main course",
+      "type": "french",
+      "img": "https://www.hospitalityhedonist.co.za/wp-content/uploads/2019/02/joe-lingeman-2-1080x1350.jpg",
+      "time": "2 hours",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "10",
+      "title": "Crème Brûlée",
+      "desc": "Crème brûlée is a rich and creamy French dessert consisting of a smooth custard base topped with a layer of caramelized sugar.",
+      "ingredients": {
+        "1": "500ml heavy cream",
+        "2": "6 large egg yolks",
+        "3": "100g granulated sugar",
+        "4": "1 vanilla bean or 1 tsp vanilla extract",
+        "5": "Extra sugar for caramelizing"
+      },
+      "steps": {
+        "1": "Step 1 - Preheat oven to 150°C (300°F). Place 6 ramekins in a deep baking dish.",
+        "2": "Step 2 - In a saucepan, heat the cream and vanilla bean (if using) over medium heat until just simmering. Remove from heat and let it sit for 10 minutes to infuse.",
+        "3": "Step 3 - In a bowl, whisk together egg yolks and sugar until well combined and slightly pale in color.",
+        "4": "Step 4 - Slowly pour the warm cream mixture into the egg yolk mixture, whisking constantly.",
+        "5": "Step 5 - Strain the mixture through a fine-mesh sieve into a clean bowl. Divide the custard evenly among the ramekins.",
+        "6": "Step 6 - Pour hot water into the baking dish to come halfway up the sides of the ramekins. Bake for 35-40 minutes, until the custards are set but still slightly jiggly in the center.",
+        "7": "Step 7 - Remove from the oven and let them cool to room temperature. Refrigerate for at least 2 hours, or overnight.",
+        "8": "Step 8 - Just before serving, sprinkle a thin, even layer of sugar on top of each custard. Caramelize the sugar using a kitchen torch or under a broiler until golden brown and crispy.",
+        "9": "Step 9 - Let the crème brûlée sit for a few minutes to allow the caramelized sugar to harden. Serve immediately."
+      },
+      "category": "dessert",
+      "type": "french",
+      "img": "https://www.parisperfect.com/blog/wp-content/uploads/2017/11/FO-156263555-creme-brulee-spoon.jpg",
+      "time": "3 hours",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "11",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup water (adjust as needed)",
+        "1/2 teaspoon salt",
+        "1 pound ground beef or lamb",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 tablespoon ginger, minced",
+        "1 tablespoon soy sauce",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "1/2 teaspoon ground black pepper",
+        "1/2 teaspoon salt (adjust to taste)",
+        "1/4 cup chopped cilantro",
+        "1/4 cup chopped green onions",
+        "1-2 tablespoons vegetable oil (for cooking)"
+      ],
+      "steps": [
+        "Step 1 - In a large mixing bowl, combine the flour and salt.",
+        "Step 2 - Gradually add water while mixing, until a dough forms.",
+        "Step 3 - Knead the dough on a lightly floured surface until it becomes smooth and elastic (about 5-7 minutes).",
+        "Step 4 - Cover the dough with a damp cloth and let it rest for at least 30 minutes.",
+        "Step 5 - In a mixing bowl, combine the ground meat, chopped onion, minced garlic, minced ginger, soy sauce, ground cumin, ground coriander, black pepper, and salt.",
+        "Step 6 - Mix well to evenly distribute the spices and seasonings.",
+        "Step 7 - Add the chopped cilantro and green onions to the mixture, and mix again.",
+        "Step 8 - Heat a small amount of vegetable oil in a large skillet over medium heat.",
+        "Step 9 - Place the filled and sealed shabalep in the skillet, and cook until the bottoms are golden brown (about 2-3 minutes).",
+        "Step 10 - Carefully flip the shabalep and cook the other side until golden brown and the filling is cooked through (another 2-3 minutes).",
+        "Step 11- You can add a small amount of water to the skillet and cover it with a lid to steam the shabalep for a softer texture (optional)."
+      ],
+      "title": "shabaklep",
+      "desc": "tibetan delicacy",
+      "category": "main course",
+      "type": "asian",
+      "img": "https://www.yowangdu.com/wp-content/uploads/2020/01/Shapale-Tibetan-fried-meat-pies.jpg",
+      "time": "15 mintutes",
+      "conseil": "Conserve in room temperature"
+    },
+    {
+      "id": "12",
+      "title": "momo fry",
+      "desc": "momo declious fry momo",
+      "category": "main course",
+      "type": "asian",
+      "img": "https://th.bing.com/th/id/OIP.jrcF356KsK312oNusjh0PgHaFh?rs=1&pid=ImgDetMain",
+      "time": "15 mintutes",
+      "conseil": "Conserve in room temperature",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup water (adjust as needed)",
+        "1/2 teaspoon salt",
+        "1 pound ground chicken, beef, or pork",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 tablespoon ginger, minced",
+        "1 tablespoon soy sauce",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "1/2 teaspoon ground black pepper",
+        "1/2 teaspoon salt (adjust to taste)",
+        "1/4 cup chopped cilantro",
+        "1/4 cup chopped green onions",
+        "1-2 tablespoons vegetable oil (for cooking)",
+        "1/4 cup vegetable oil (adjust as needed)"
+      ],
+      "steps": [
+        "Step 1 - In a large mixing bowl, combine the flour and salt.",
+        "Step 2 - Gradually add water while mixing, until a dough forms.",
+        "Step 3 - Knead the dough on a lightly floured surface until it becomes smooth and elastic (about 5-7 minutes).",
+        "Step 4 - Cover the dough with a damp cloth and let it rest for at least 30 minutes.",
+        "Step 5 - In a mixing bowl, combine the ground meat, chopped onion, minced garlic, minced ginger, soy sauce, ground cumin, ground coriander, black pepper, and salt.",
+        "Step 6 - Mix well to evenly distribute the spices and seasonings.",
+        "Step 7 - Add the chopped cilantro and green onions to the mixture, and mix again.",
+        "Step 8 - Divide the dough into small equal-sized balls (about 1.5 inches in diameter).",
+        "Step 9 - Roll each ball into a thin circle (about 4-5 inches in diameter) on a lightly floured surface.",
+        "Step 10 - Place a spoonful of the meat filling in the center of each circle.",
+        "Step 11 - Gather the edges of the dough around the filling, pinching and pleating to seal the top. You can also shape them into half-moons and seal the edges with a fork.",
+        "Step 12 - Heat the vegetable oil in a large skillet or frying pan over medium heat.",
+        "Step 13 - Place the momos in the skillet, making sure they are not crowded.",
+        "Step 14 - Fry the momos until they are golden brown on the bottom (about 2-3 minutes).",
+        "Step 15 - Flip the momos and fry the other side until golden brown and the filling is cooked through (another 2-3 minutes).",
+        "Step 16 - If needed, add a little water to the skillet and cover with a lid to ensure the filling cooks thoroughly while keeping the momos moist."
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Bœuf Bourguignon",
+      "desc": "Bœuf Bourguignon is a classic French beef stew braised in red wine, flavored with onions, carrots, garlic, and a bouquet garni. It's hearty, rich, and deeply flavorful.",
+      "category": "main course",
+      "type": "french",
+      "img": "https://th.bing.com/th/id/R.b1f9969daa1ba78290f0282b1af06755?rik=Y6xkqwtA%2fDUYKA&pid=ImgRaw&r=0",
+      "time": "3 hours",
+      "conseil": "Conserve in room temperature",
+      "ingredients": [
+        "1 kg beef chuck roast, cut into cubes",
+        "200g bacon, diced",
+        "250g mushrooms quartered",
+        "3 carrots, sliced",
+        "2 onions, chopped",
+        "4 cloves garlic minced",
+        "750ml red wine (preferably Burgundy)",
+        "250ml beef broth",
+        "2 tbsp tomato paste",
+        "2 tbsp all-purpose flour",
+        "2 tbsp butter",
+        "1 bouquet garni (thyme, bay leaves, parsley tied together)",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+      ],
+      "steps": [
+        "Step 1 - In a large Dutch oven, cook bacon over medium heat until crisp. Remove bacon and set aside, leaving drippings in the pot.",
+        "Step 2 - Season beef cubes with salt and pepper. Brown beef in the bacon drippings on all sides. Remove beef and set aside.",
+        "Step 3 - Add butter to the pot and sauté onions, carrots, and garlic until softened.",
+        "Step 4 - Stir in flour and cook for 1-2 minutes. Slowly add red wine and beef broth, stirring constantly.",
+        "Step 5 - Return beef and bacon to the pot. Add mushrooms, tomato paste, and bouquet garni. Bring to a simmer, cover, and cook over low heat for 2 to 2.5 hours, until beef is tender.",
+        "Step 6 - Adjust seasoning with salt and pepper. Garnish with chopped parsley before serving."
+      ]
+    }
+  ]
+}
